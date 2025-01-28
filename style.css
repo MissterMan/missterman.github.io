@@ -1,0 +1,51 @@
+body {
+  margin-top: 30px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+::selection {
+  background-color: #958831;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  font-size: 35px;
+  margin: 0px;
+  padding: 0px;
+}
+h3 {
+  font-size: 24px;
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  text-align: justify;
+}
+
+.container-flex {
+  text-align: justify;
+  display: flex;
+  flex-direction: row;
+}
+
+.container-skill {
+  width: 350px;
+  text-align: left;
+}
+
+.cs-tabs p {
+  font-size: 18px;
+}
